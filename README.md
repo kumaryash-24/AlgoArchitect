@@ -2,15 +2,14 @@
 # DSA visualizer
 https://dsvisualizer.isatvik.com/
 
-<div align="center">
+<!--<div align="center">
    <a href="https://github.com/Gurupatil0003/"><img alt="Repo Name" title="repo name" target="_blank" src="https://img.shields.io/badge/Learn_DSA?style=for-the-badge"></a></br>
-   <a href="https://github.com/Gurupatil0003/DSA-MASTERY"><img alt="Repo Size" title="repo size" target="_blank" src="https://img.shields.io/github/repo-size/Mouneshgouda/Learn_DSA?style=for-the-badge&color=50CCA0&logo=github"></a>
-   <a href="./CONTRIBUTING.md"><img alt="Repo Contributors" title="repo contributors" target="_blank" src="https://img.shields.io/github/contributors/Mouneshgouda/Learn_DSA?style=for-the-badge&color=50CCA0&logo=github"></a>
-   <a href="https://github.com/Mouneshgouda/Learn_DSA"><img alt="Repo Stars" title="repo stars" target="_blank" src="https://img.shields.io/github/stars/Mouneshgouda/Learn_DSA?style=for-the-badge&color=50CCA0&logo=github"></a>
-   <a href="https://github.com/Mouneshgouda/Learn_DSA"><img alt="Repo Forks" title="repo forks" target="_blank" src="https://img.shields.io/github/forks/Mouneshgouda/Learn_DSA?style=for-the-badge&color=50CCA0&logo=github"></a>
-   <a href="https://server-x-101.github.io/articles/Gurupatil0003/"><img height="28px" alt="Site Up" title="site up" target="_blank" src="https://napkin-examples.npkn.net/site-status-badge/"></a> 
+   <a href="https://github.com/Gurupatil0003/DSA-MASTERY"><img alt="Repo Size" title="repo size" target="_blank" src="https://img.shields.io/github/repo-size/kumaryash-24/Learn_DSA?style=for-the-badge&color=50CCA0&logo=github"></a>
+   <a href="./CONTRIBUTING.md"><img alt="Repo Contributors" title="repo contributors" target="_blank" src="https://img.shields.io/github/contributors/kumaryash-24/Learn_DSA?style=for-the-badge&color=50CCA0&logo=github"></a>
+   <a href="https://github.com/kumaryash-24/Learn_DSA"><img alt="Repo Stars" title="repo stars" target="_blank" src="https://img.shields.io/github/stars/kumaryash-24/Learn_DSA?style=for-the-badge&color=50CCA0&logo=github"></a>
+   <a href="https://github.com/kumaryash-24/Learn_DSA"><img alt="Repo Forks" title="repo forks" target="_blank" src="https://img.shields.io/github/forks/kumaryash-24/Learn_DSA?style=for-the-badge&color=50CCA0&logo=github"></a>
+   <a href="https://server-x-101.github.io/articles/kumaryash-24/"><img height="28px" alt="Site Up" title="site up" target="_blank" src="https://napkin-examples.npkn.net/site-status-badge/"></a> 
 <!-- <a href="https://github.com/SERVER-X-101/DSA-MASTERY"><img height="28px" alt="Site Down" title="site down" target="_blank" src="https://napkin-examples.npkn.net/site-status-badge/400"></a> -->
-</div>
 
 </br>
 
