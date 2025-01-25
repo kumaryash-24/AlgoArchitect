@@ -1,9 +1,11 @@
 <div align="center">
   <a href="https://kumaryash_24.io">
     <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/fan-1.gif" alt="MasterHead" width="700" height="200">
-      <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/welcome-fire.gif" alt="MasterHead" width="700" height="200">
   </a>
+  <br>
+  <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/welcome-fire.gif" alt="Welcome Fire" width="700" height="200">
 </div>
+
 # DSA-MASTERY
 # DSA visualizer
 https://dsvisualizer.isatvik.com/
