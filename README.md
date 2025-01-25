@@ -1425,10 +1425,10 @@ Stay tuned for additional resources and guides tailored for specific programming
 
 ---
 
-   *Authored by <a target="_blank" href="https://github.com/Mouneshgouda"> Mounesh Gouda</a>*
+   *Authored by <a target="_blank" href="https://github.com/kumaryash-24"> Mounesh Gouda</a>*
    
    <p align="center">
-     Copyright © 2023 - 2024 <b><a target="_blank" href="https://github.com/Mouneshgouda">Mouneshgouda</a></b> All rights reserved. <br/>
+     Copyright © 2024 - 2025 <b><a target="_blank" href="https://github.com/kumaryash-24">Mouneshgouda</a></b> All rights reserved. <br/>
    </p>
 
 </div>
