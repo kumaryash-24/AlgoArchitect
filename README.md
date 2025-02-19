@@ -7,7 +7,7 @@
 </div>      
    
 # DSA-MASTERY
-# DSA visualizer     
+# DSA visualizer       
 https://dsvisualizer.isatvik.com/   
   
 <!--<div align="center">   
