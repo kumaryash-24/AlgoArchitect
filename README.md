@@ -4,7 +4,7 @@
   </a>
   <br>
   <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/welcome-fire.gif" alt="Welcome Fire" width="700" height="200">
-</div>
+</div>   
    
 # DSA-MASTERY
 # DSA visualizer  
